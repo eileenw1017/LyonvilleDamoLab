@@ -1,10 +1,25 @@
+.things-to-do * {
+  box-sizing: border-box;
+}
+
+
 .things-to-do {
+  z-index: 10;
+  background: #ffffff;
+  width: 100%;
+  width: 1728px;
+  height: 3257px;
+  position: relative;
+  overflow: hidden; 
+}
+
+/* .things-to-do {
   background-color: #ffffff;
   display: flex;
   flex-direction: row;
   justify-content: center;
   width: 100%;
-}
+} */
 
 .things-to-do .overlap-wrapper {
   background-color: #ffffff;

@@ -1,6 +1,6 @@
 import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import { ThingsToDo } from "./screens/ThingsToDo";
+import { ThingsToDo } from "./ThingsToDo";
 
 const router = createBrowserRouter([
   {
