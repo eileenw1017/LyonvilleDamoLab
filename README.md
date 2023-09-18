@@ -1,7 +1,3 @@
-Of course, here's a README template for the Lyonville webpage project on GitHub:
-
----
-
 # **Lyonville Webpage Project**
 
 Lyonville's official webpage dedicated to serving both the local community and visitors. This platform emphasizes user experience, accessibility, and content specifically tailored to various audience segments.
