@@ -1,7 +1,7 @@
 /* Code generated with AutoHTML Plugin for Figma */
-import styles from "./MacBookPro1613.module.css";
+import styles from "./History.module.css";
 
-export const MacBookPro1613 = ({ ...props }) => {
+export const History = ({ ...props }) => {
   return (
     <div className={styles["body"]}>
       <div className={styles["header"]}>

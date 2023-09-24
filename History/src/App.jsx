@@ -1,11 +1,11 @@
 import "./styles.css";
 
-import { MacBookPro1613 } from "./MacBookPro1613/MacBookPro1613";
+import { History } from "./History/history";
 
 export default function App() {
 return (
     <div>
-    <MacBookPro1613 />
+    <History />
     </div>
 );
 }

@@ -47,6 +47,8 @@
 .history {
     position: relative;
     background-color: #F4F3D7;
+    width: 100%;
+    overflow: hidden;
 }
 
 .history-bg {
